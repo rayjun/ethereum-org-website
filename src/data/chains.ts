@@ -528,6 +528,17 @@ const chains = [
     chain: "river",
   },
   {
+    name: "BattleChain Mainnet",
+    infoURL: "https://battlechain.com",
+    chainId: 626,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
+    chain: "ETH",
+  },
+  {
     name: "Redstone",
     infoURL: "https://redstone.xyz",
     chainId: 690,
@@ -1031,6 +1042,17 @@ const chains = [
       symbol: "ETH",
       decimals: 18,
     },
+    chain: "MegaETH",
+  },
+  {
+    name: "Robinhood Chain",
+    infoURL: "https://docs.robinhood.com/chain",
+    chainId: 4663,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
     chain: "ETH",
   },
   {
@@ -1186,6 +1208,17 @@ const chains = [
       decimals: 18,
     },
     chain: "Polynomial",
+  },
+  {
+    name: "ACME Mainnet Stealth",
+    infoURL: "",
+    chainId: 8224,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
+    chain: "ASM",
   },
   {
     name: "B3",
@@ -1672,17 +1705,6 @@ const chains = [
     chain: "ETH",
   },
   {
-    name: "Condrieu",
-    infoURL: "https://condrieu.ethdevops.io",
-    chainId: 69420,
-    nativeCurrency: {
-      name: "Condrieu Testnet Ether",
-      symbol: "CTE",
-      decimals: 18,
-    },
-    chain: "ETH",
-  },
-  {
     name: "Proof of Play - Apex",
     infoURL: "https://proofofplay.com",
     chainId: 70700,
@@ -2058,17 +2080,6 @@ const chains = [
     chain: "ETH",
   },
   {
-    name: "ZERO Network",
-    infoURL: "https://docs.zero.network",
-    chainId: 543210,
-    nativeCurrency: {
-      name: "Ether",
-      symbol: "ETH",
-      decimals: 18,
-    },
-    chain: "ZERONetwork",
-  },
-  {
     name: "DustBoy IoT",
     infoURL: "https://www.cmuccdc.org/",
     chainId: 555888,
@@ -2278,6 +2289,17 @@ const chains = [
     chain: "ETH",
   },
   {
+    name: "MAKI Chain",
+    infoURL: "https://makiai.app",
+    chainId: 8000008,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
+    chain: "MAKI",
+  },
+  {
     name: "Hokum",
     infoURL: "https://hokum.gg",
     chainId: 8080808,
@@ -2320,6 +2342,17 @@ const chains = [
       decimals: 18,
     },
     chain: "ILT",
+  },
+  {
+    name: "Crynux on Base",
+    infoURL: "https://crynux.io",
+    chainId: 18896214,
+    nativeCurrency: {
+      name: "Crynux",
+      symbol: "CNX",
+      decimals: 18,
+    },
+    chain: "ETH",
   },
   {
     name: "DBK Chain",
@@ -2454,6 +2487,17 @@ const chains = [
       decimals: 18,
     },
     chain: "NEAR",
+  },
+  {
+    name: "Crynux on Near",
+    infoURL: "https://crynux.io",
+    chainId: 1313161911,
+    nativeCurrency: {
+      name: "Crynux",
+      symbol: "CNX",
+      decimals: 18,
+    },
+    chain: "ETH",
   },
   {
     name: "RARI Chain Mainnet",
